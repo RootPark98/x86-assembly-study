@@ -6,7 +6,7 @@ section .text
 
 _start:
 	mov rax, 20
-	sub rax, 3
+	sub rax, 5
 	inc rax
 	inc rax
 	dec rax
